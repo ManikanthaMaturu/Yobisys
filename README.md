@@ -1,4 +1,8 @@
-Here are the corrected sentences:
+# Yobisys
+Yobisys
+
+
+
 
 1. **Install Python**: Download and install Python from python.org.
 
@@ -44,5 +48,4 @@ Here are the corrected sentences:
    users/
    ```
 
-9. **Rate Limiting**: If more than 10 requests are made, the system will restrict further requests.
 
